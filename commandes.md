@@ -40,7 +40,7 @@ ls -l
 ls -la
 ```
 
-##Manipulation de fichiers et dossiers
+## Manipulation de fichiers et dossiers
 
 Créer un fichier vide:
 ```sh
